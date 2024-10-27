@@ -24,13 +24,3 @@ print(f"Between unit price and sales values correlation: {correlation}")
 
 # Between unit price and sales values correlation: 0.6339620885890688
 # the correlation value is close to 1, so there is a positive correlation
-
-
-
-
-
-
-
-
-
-
