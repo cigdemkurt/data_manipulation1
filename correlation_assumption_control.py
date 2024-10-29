@@ -15,4 +15,4 @@ Stat of test = 0.9519, p-value=0.0000"""
 """p-values are 0.000, they refuses the H0 hypothesis. It means there is a significant difference between the sample distribution and the normal distribution
 so, should do correlation coefficient hypothesis testing"""
 
-# the shapiro() function checks whether the given data corresponds to the normal distribution by applying the Shapiro-Wilk test.
+#the shapiro() function checks whether the given data corresponds to the normal distribution by applying the Shapiro-Wilk test.
