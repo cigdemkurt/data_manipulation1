@@ -12,7 +12,7 @@ print('Stat of test = %.4f, p-value= %.4f' % (stat_of_test, pvalue))
 """Stat of test = 0.9088, p-value=0.0000
 Stat of test = 0.9519, p-value=0.0000"""
 
-#p-values are 0.000, they are less than 0.5, it means the result that obtained is statistically significant.
-
+"""p-values are 0.000, they refuses the H0 hypothesis. It means there is a significant difference between the sample distribution and the normal distribution
+so, should do correlation coefficient hypothesis testing"""
 
 # the shapiro() function checks whether the given data corresponds to the normal distribution by applying the Shapiro-Wilk test.
